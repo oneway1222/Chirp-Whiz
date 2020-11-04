@@ -56,12 +56,12 @@ Luis Medina
 Zohora Noor
 
 
-#### To view progress on Wiki
+### To view progress on Wiki
 Click on this link to go to the Wiki on the Master Repo:
 
 https://github.com/LiamBoylan/Chirp-Whiz/wiki
 
-#### To view history of Issues
+### To view history of Issues
 Click on this link to go to the Issues on the Master Repo:
 
 https://github.com/LiamBoylan/Chirp-Whiz/issues
